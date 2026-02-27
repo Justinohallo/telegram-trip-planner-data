@@ -96,3 +96,6 @@ So could demo to our friends, get feedback etc | false |
 | 2026-02-27T19:45:00.000Z | Anthony | He sounds like this Malibu content creator who blew up. This surfer bro body builder who just shares love and positivity hahha | false |
 | 2026-02-27T22:41:38.000Z | Justin | Broski how is it going | true |
 | 2026-02-27T22:42:27.000Z | Justin | Broski - Corey is our lawyer. When shit hits the fan please call him. He’s also big money and will pick up the tab this weekend. | true |
+| 2026-02-27T23:23:25.000Z | Justin | Broski how you doing now ? 
+
+I think we’re gonna hit up the GLC on Sunday instead of longhorns. | true |
