@@ -1,7 +1,7 @@
 # ✈️ Trip Plan: Whistler, BC
 
 **Created:** 2026-02-26T21:57:34.903Z
-**Last updated:** 2026-02-27T17:48:53.000Z
+**Last updated:** 2026-02-27T23:23:25.000Z
 
 ## 👥 Travellers
 
@@ -35,7 +35,7 @@
 ### Sunday – Mar 1
 - Pat & Dave depart
 - Full remaining crew snowboards
-- **Afternoon:** Après at **Long Horns**
+- **Afternoon:** Après at **GLC** (swapped from Longhorns)
 - **Evening:** Hit the town
 - Corey takes the bus home
 
@@ -44,7 +44,7 @@
 
 ## 🍽️ Restaurants & Food
 
-- **Long Horns** — Après Sunday afternoon
+- **GLC** — Après Sunday afternoon (swapped from Longhorns)
 
 ## 💰 Budget
 
