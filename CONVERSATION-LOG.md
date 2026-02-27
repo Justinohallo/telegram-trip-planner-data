@@ -94,3 +94,4 @@ So could demo to our friends, get feedback etc | false |
 | 2026-02-27T19:43:34.000Z | Justin | @vancouver_trip_bot are you alive | true |
 | 2026-02-27T19:44:34.000Z | Anthony | The more I read broski’s chats, the more I want him to be real | true |
 | 2026-02-27T19:45:00.000Z | Anthony | He sounds like this Malibu content creator who blew up. This surfer bro body builder who just shares love and positivity hahha | false |
+| 2026-02-27T22:41:38.000Z | Justin | Broski how is it going | true |
