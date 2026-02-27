@@ -1,0 +1,17 @@
+{
+  "budget_usd": 2,
+  "total_input_tokens": 1957,
+  "total_output_tokens": 522,
+  "total_cost_usd": 0.013701,
+  "total_api_calls": 1,
+  "last_updated": "2026-02-27T22:41:54.359Z",
+  "recent_entries": [
+    {
+      "timestamp": "2026-02-27T22:41:54.359Z",
+      "source": "summary",
+      "input_tokens": 1957,
+      "output_tokens": 522,
+      "cost_usd": 0.013701
+    }
+  ]
+}
