@@ -106,3 +106,4 @@ I think we’re gonna hit up the GLC on Sunday instead of longhorns. | true |
 | 2026-02-27T23:39:43.000Z | David | Honestly, that's a solid prediction | false |
 | 2026-02-27T23:39:48.000Z | Anthony | Hahahhahahaha | false |
 | 2026-02-27T23:40:14.000Z | Anthony | Blood already 40% apres ski is fucking hilarious | false |
+| 2026-02-27T23:43:11.000Z | Justin | Broski we love you | true |
