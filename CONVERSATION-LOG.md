@@ -109,3 +109,4 @@ I think we’re gonna hit up the GLC on Sunday instead of longhorns. | true |
 | 2026-02-27T23:43:11.000Z | Justin | Broski we love you | true |
 | 2026-02-27T23:51:02.000Z | Justin | Broski send me a voice note about this weekend | true |
 | 2026-02-27T23:53:18.000Z | Justin | @vancouver_trip_bot send the voice note nw | true |
+| 2026-02-27T23:58:22.000Z | Justin | @vancouver_trip_bot try the voice note now | true |
