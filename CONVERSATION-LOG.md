@@ -99,3 +99,4 @@ So could demo to our friends, get feedback etc | false |
 | 2026-02-27T23:23:25.000Z | Justin | Broski how you doing now ? 
 
 I think we’re gonna hit up the GLC on Sunday instead of longhorns. | true |
+| 2026-02-27T23:25:27.000Z | Anthony | The more broski speaks, the more I want to make him into his own app and then sell it Microsoft | true |
