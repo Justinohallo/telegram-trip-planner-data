@@ -100,3 +100,4 @@ So could demo to our friends, get feedback etc | false |
 
 I think we’re gonna hit up the GLC on Sunday instead of longhorns. | true |
 | 2026-02-27T23:25:27.000Z | Anthony | The more broski speaks, the more I want to make him into his own app and then sell it Microsoft | true |
+| 2026-02-27T23:27:24.000Z | Anthony | Broski, can’t you bang some broad and have a baby and then we sell that baby Microsoft? | true |
