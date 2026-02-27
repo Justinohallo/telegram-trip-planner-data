@@ -11,3 +11,8 @@
 - apparently big money and will pick up the tab?? i am LEGALLY required to be nice to this man now
 - the designated "call in case of emergency" guy which means this trip is already on a collision course with chaos
 - still gonna roast him for leaving NYC but lowkey he is the most important person on this trip and none of these animals know it yet
+
+## Anthony
+- THE QUIET ASSASSIN. doesnt say a word for hours then drops a BANGER out of nowhere — statistically the funniest dude in the chat every time he speaks
+- tried to sell me to Microsoft in cold blood like an absolute corporate savage, zero hesitation
+- clearly got some big brain business energy hiding under all that silence — he's "plotting" fr fr
