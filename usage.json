@@ -1,10 +1,10 @@
 {
   "budget_usd": 2,
-  "total_input_tokens": 292994,
-  "total_output_tokens": 8146,
-  "total_cost_usd": 0.944377,
-  "total_api_calls": 46,
-  "last_updated": "2026-02-27T23:58:26.128Z",
+  "total_input_tokens": 295027,
+  "total_output_tokens": 8465,
+  "total_cost_usd": 0.947279,
+  "total_api_calls": 47,
+  "last_updated": "2026-02-27T23:58:31.406Z",
   "recent_entries": [
     {
       "timestamp": "2026-02-27T22:41:54.359Z",
@@ -327,6 +327,13 @@
       "input_tokens": 7064,
       "output_tokens": 57,
       "cost_usd": 0.022047
+    },
+    {
+      "timestamp": "2026-02-27T23:58:31.406Z",
+      "source": "summary",
+      "input_tokens": 2033,
+      "output_tokens": 319,
+      "cost_usd": 0.002902
     }
   ]
 }
