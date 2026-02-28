@@ -128,3 +128,4 @@ Mango Cody and I are at the moose in Vancouver. Having a few pints with Cody’s
 | 2026-02-28T06:32:02.000Z | Justin | Mango is motorboating beer cans | false |
 | 2026-02-28T07:30:31.000Z | Justin | Broski. Mango and I are supporting a women’s shelter. We are at a concert at Donnelans. We paid a ticket to support a women’s shelter. | true |
 | 2026-02-28T07:32:15.000Z | Justin | Let’s rip all day all night Lfg | true |
+| 2026-02-28T17:00:48.000Z | Justin | Game day | true |
