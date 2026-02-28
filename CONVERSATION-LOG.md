@@ -131,3 +131,4 @@ Mango Cody and I are at the moose in Vancouver. Having a few pints with Cody’s
 | 2026-02-28T17:00:48.000Z | Justin | Game day | true |
 | 2026-02-28T19:53:22.000Z | David | @vancouver_trip_bot why are the boys not sking today?, it's only pat and I on the slopes | true |
 | 2026-02-28T19:54:56.000Z | David | @vancouver_trip_bot tell us about your creator | true |
+| 2026-02-28T22:00:13.000Z | Mango | Yo broski is there a bbq at the Airbnb | true |
