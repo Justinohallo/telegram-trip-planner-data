@@ -119,3 +119,4 @@ I think we’re gonna hit up the GLC on Sunday instead of longhorns. | true |
 | 2026-02-28T00:56:04.000Z | Justin | Broski - hit me with a voice note | true |
 | 2026-02-28T01:09:54.000Z | Justin | Broski try the voice note now | true |
 | 2026-02-28T02:46:05.000Z | Anthony | Broski, set a reminder that I will be at Corey’s place for 2pm PST tomorrow | true |
+| 2026-02-28T02:46:15.000Z | Corey | @vancouver_trip_bot can you catch me up on everything? What time am I getting picked up? Do we have enough beds? Do we have a reservation a long horn on Saturday? What’s the apres on Sunday? | true |
