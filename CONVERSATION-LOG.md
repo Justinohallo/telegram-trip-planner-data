@@ -135,3 +135,4 @@ Mango Cody and I are at the moose in Vancouver. Having a few pints with Cody’s
 | 2026-02-28T22:01:10.000Z | Mango | Its 2pm in Van where you at | false |
 | 2026-02-28T22:01:12.000Z | Anthony | Broski if I send you the Airbnb link can you get all the info from there? | true |
 | 2026-02-28T22:11:02.000Z | Justin | Broski what time is it | true |
+| 2026-02-28T22:11:29.000Z | Justin | We’re in Vancouver dude | true |
