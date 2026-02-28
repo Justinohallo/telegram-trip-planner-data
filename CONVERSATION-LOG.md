@@ -139,3 +139,4 @@ Mango Cody and I are at the moose in Vancouver. Having a few pints with Cody’s
 | 2026-02-28T22:13:21.000Z | Justin | What’s for dinner tn | true |
 | 2026-02-28T22:13:56.000Z | Justin | Where do you suggest | true |
 | 2026-02-28T22:14:33.000Z | Justin | Dude we’re in whistler | true |
+| 2026-02-28T22:15:12.000Z | Justin | Where do we want to go for dinner in whistler ? | true |
