@@ -137,3 +137,4 @@ Mango Cody and I are at the moose in Vancouver. Having a few pints with Cody’s
 | 2026-02-28T22:11:02.000Z | Justin | Broski what time is it | true |
 | 2026-02-28T22:11:29.000Z | Justin | We’re in Vancouver dude | true |
 | 2026-02-28T22:13:21.000Z | Justin | What’s for dinner tn | true |
+| 2026-02-28T22:13:56.000Z | Justin | Where do you suggest | true |
