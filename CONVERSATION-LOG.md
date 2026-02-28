@@ -124,3 +124,4 @@ I think we’re gonna hit up the GLC on Sunday instead of longhorns. | true |
 
 Mango Cody and I are at the moose in Vancouver. Having a few pints with Cody’s bro and sister in law. Absolute family time rn. | true |
 | 2026-02-28T06:29:07.000Z | Justin | Broski - mango wants to go to the Granville strip. Thoughts ? | true |
+| 2026-02-28T06:29:54.000Z | Justin | Not the Granville strip. The Granville strip club. | true |
