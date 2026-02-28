@@ -133,3 +133,4 @@ Mango Cody and I are at the moose in Vancouver. Having a few pints with Cody’s
 | 2026-02-28T19:54:56.000Z | David | @vancouver_trip_bot tell us about your creator | true |
 | 2026-02-28T22:00:13.000Z | Mango | Yo broski is there a bbq at the Airbnb | true |
 | 2026-02-28T22:01:10.000Z | Mango | Its 2pm in Van where you at | false |
+| 2026-02-28T22:01:12.000Z | Anthony | Broski if I send you the Airbnb link can you get all the info from there? | true |
