@@ -117,3 +117,4 @@ I think we’re gonna hit up the GLC on Sunday instead of longhorns. | true |
 | 2026-02-28T00:17:49.000Z | Justin | Broski. Our boy Chris’ fiancé, Justine, is worried about our activities this weekend. Can you write her a reassuring message | true |
 | 2026-02-28T00:35:53.000Z | Mango | Mango has entered the chat | true |
 | 2026-02-28T00:56:04.000Z | Justin | Broski - hit me with a voice note | true |
+| 2026-02-28T01:09:54.000Z | Justin | Broski try the voice note now | true |
