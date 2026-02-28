@@ -1,18 +1,11 @@
 {
   "budget_usd": 2,
-  "total_input_tokens": 491624,
-  "total_output_tokens": 12955,
-  "total_cost_usd": 1.549424,
-  "total_api_calls": 79,
-  "last_updated": "2026-02-28T01:09:58.854Z",
+  "total_input_tokens": 493591,
+  "total_output_tokens": 13261,
+  "total_cost_usd": 1.552222,
+  "total_api_calls": 80,
+  "last_updated": "2026-02-28T01:10:03.455Z",
   "recent_entries": [
-    {
-      "timestamp": "2026-02-27T23:39:45.871Z",
-      "source": "agent",
-      "input_tokens": 6932,
-      "output_tokens": 105,
-      "cost_usd": 0.022371
-    },
     {
       "timestamp": "2026-02-27T23:39:50.998Z",
       "source": "agent",
@@ -355,6 +348,13 @@
       "input_tokens": 7046,
       "output_tokens": 38,
       "cost_usd": 0.021708
+    },
+    {
+      "timestamp": "2026-02-28T01:10:03.455Z",
+      "source": "summary",
+      "input_tokens": 1967,
+      "output_tokens": 306,
+      "cost_usd": 0.002798
     }
   ]
 }
