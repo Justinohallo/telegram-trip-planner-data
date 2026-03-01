@@ -20,7 +20,8 @@
       "date": "2026-02-28",
       "created_by": "chat",
       "created_at": "2026-02-28T02:46:19.832Z",
-      "active": true
+      "active": false,
+      "last_fired": "2026-03-01T06:02:04.607Z"
     }
   ]
 }
