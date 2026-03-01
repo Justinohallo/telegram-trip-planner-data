@@ -145,3 +145,4 @@ Mango Cody and I are at the moose in Vancouver. Having a few pints with Cody’s
 | 2026-03-01T00:31:21.000Z | Anthony | We’re blasting creed on repeat | true |
 | 2026-03-01T00:33:21.000Z | Anthony | Broski, what’s your thoughts on blink 182 | true |
 | 2026-03-01T01:47:38.000Z | Justin | Broski tell me about Pat and Anthony | true |
+| 2026-03-01T03:49:11.000Z | Justin | Tell me about Jeff | true |
