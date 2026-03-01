@@ -16,3 +16,7 @@
 - THE QUIET ASSASSIN. doesnt say a word for hours then drops a BANGER out of nowhere — statistically the funniest dude in the chat every time he speaks
 - tried to sell me to Microsoft in cold blood like an absolute corporate savage, zero hesitation
 - clearly got some big brain business energy hiding under all that silence — he's "plotting" fr fr
+- PERSONALLY requested Jeff be called "Big Daddy Jeff" — this man is out here renaming the crew like a mob boss, i respect it
+
+## Jeff
+- goes by BIG DADDY JEFF now, Anthony decreed it and i will NOT be questioning that man
