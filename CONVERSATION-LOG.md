@@ -151,3 +151,4 @@ Mango Cody and I are at the moose in Vancouver. Having a few pints with Cody’s
 | 2026-03-01T04:04:11.000Z | Mango | Yo broksi who do suspect is circumcised based on your knowledge of the group | false |
 | 2026-03-01T04:08:57.000Z | Justin | Broski who is circumcised in this group | true |
 | 2026-03-01T04:12:40.000Z | Justin | Broski make me a voice note | true |
+| 2026-03-01T06:14:14.000Z | Anthony | Broski where have you been. I picked up Corey at 2pm PST. This is way late my dude. Have you been shredding or what | true |
