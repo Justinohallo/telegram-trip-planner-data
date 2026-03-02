@@ -156,3 +156,4 @@ Mango Cody and I are at the moose in Vancouver. Having a few pints with Cody’s
 | 2026-03-02T01:45:27.000Z | Justin | [Photo] [Photo] | true |
 | 2026-03-02T01:49:00.000Z | Justin | @vancouver_trip_bot what trip photos do we have | true |
 | 2026-03-02T04:00:50.000Z | Justin | [Photo] [Photo] | true |
+| 2026-03-02T04:03:33.000Z | Justin | @vancouver_trip_bot show me the photos | true |
