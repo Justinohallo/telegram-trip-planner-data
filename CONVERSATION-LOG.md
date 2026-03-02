@@ -154,3 +154,4 @@ Mango Cody and I are at the moose in Vancouver. Having a few pints with Cody’s
 | 2026-03-01T06:14:14.000Z | Anthony | Broski where have you been. I picked up Corey at 2pm PST. This is way late my dude. Have you been shredding or what | true |
 | 2026-03-02T01:44:05.000Z | Justin | [Photo] [Photo] | true |
 | 2026-03-02T01:45:27.000Z | Justin | [Photo] [Photo] | true |
+| 2026-03-02T01:49:00.000Z | Justin | @vancouver_trip_bot what trip photos do we have | true |
